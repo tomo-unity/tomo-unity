@@ -13,13 +13,18 @@ java,html,javascript
 <br />
 
 ## My Works
-<h1><a href="https://github.com/tomo-unity/Encampment_File/tree/main/Encampment">陣取りゲーム</a></h1>
+<h2><a href="https://github.com/tomo-unity/Encampment_File/tree/main/Encampment">陣取りゲーム 「Encampment」</a></h2>
 往年のアーケード時代のゲーム「qix」を基にした陣取りゲームです。
 
-<h1><a href="https://github.com/tomo-unity/HomerunDurby/tree/main/HomerunDerby">野球ゲーム</a></h1>
+<h2><a href="https://github.com/tomo-unity/HomerunDurby/tree/main/HomerunDerby">野球ゲーム 「HomerunDerby」</a></h2>
 野球の打ちっぱなしのようにバッターを操作してホームランをたくさん打つゲームです。
 
-<h1><a href="https://confit.atlas.jp/guide/event/jsai2024/subject/2I5-GS-10-05/advanced">JSAI2024 発表</a></h1>
+<h2>2D アクションゲーム 「Mono」</a></h2>
+5～7 人規模で共同開発した 2D アクションゲームです。<br>
+紹介動画 : https://youtu.be/LHk5dBZ2icE?si=QsSbMtUkPjIlB21M <br>
+プレイ動画 : https://youtu.be/TwpNfKnWw-s?si=XvA-3VoF1cII9b9e <br>
+
+<h2><a href="https://confit.atlas.jp/guide/event/jsai2024/subject/2I5-GS-10-05/advanced">JSAI2024 発表</a></h2>
 2024年度人工知能学会全国大会に参加しました。
 
 <!--
