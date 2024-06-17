@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+#
+![Foo_name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Foo_name&show_icons=true&theme=vue-dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Foo_name&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **tomo-unity/tomo-unity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
